@@ -1,0 +1,16 @@
+@font-face {
+    font-family: iransanse;
+    src: url('./Components/Assests/Fonts/IRANSansWeb\(FaNum\).ttf');
+}
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: iransanse;
+}
+
+body {
+    background-color: rgb(250, 250, 250);
+    max-width: 1920px;
+    margin: auto;
+}
